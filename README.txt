@@ -1,10 +1,14 @@
 ﻿=== iNove ===
+Theme Name: iNove-Piraten-Hof
+Theme URI: https://github.com/by-it-admins/iNove-Piraten-Hof
+Description: Theme iNove (neoease.com) von Foldout abgeändert für die Piraten Hof.
 Contributors: mg12
 Donate link: http://www.neoease.com/themes/
 Tags: white, light, two-columns, fixed-width, theme-options, right-sidebar
 Requires at least: 2.5
 Tested up to: 2.8.3
 Stable tag: 1.4.6
+
 
 == Description ==
 
